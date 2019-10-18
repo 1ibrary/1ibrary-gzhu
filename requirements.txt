@@ -29,7 +29,7 @@ SQLAlchemy==1.1.11
 tzlocal==1.4
 urllib3==1.21.1
 uWSGI==2.0.15
-Werkzeug==0.12.2
+Werkzeug==0.15.3
 lxml==3.8.0
 pillow
 pytesseract
