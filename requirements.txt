@@ -6,7 +6,7 @@ bs4==0.0.1
 certifi==2017.4.17
 chardet==3.0.4
 click==6.7
-Flask==0.12.2
+Flask==1.0
 Flask-APScheduler==1.7.0
 Flask-HTTPAuth==3.2.3
 Flask-Migrate==2.0.4
